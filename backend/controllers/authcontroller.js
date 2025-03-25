@@ -14,6 +14,7 @@ exports.facultyList= async(req,res)=>{
     }
 }
 
+
 exports.getsortedFaculty= async(req,res)=>{
     try {
         const faculty=await Faculty.find().sort({Name:1})
