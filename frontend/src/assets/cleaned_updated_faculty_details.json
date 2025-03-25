@@ -1,0 +1,562 @@
+[
+    {
+        "Name": "Dr. Sandesh B J",
+        "Designation": "Chairperson, Professor",                                                                                                              
+        "Profile URL": "https://staff.pes.edu/nm1364/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20210615110838000686.jpg",
+        "Email": "sandesh_bj@pes.edu",
+        "Domain-1": "Computer Vision",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Dr. Arti Arya",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1366/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920113626192596_Arti_Arya.jpg",
+        "Email": "artiarya@pes.edu",
+        "Domain-1": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-2": "Natural Language Processing",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Deepa S",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1368/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230925033325983162_deepa_s_1.jpg",
+        "Email": "deepa.s@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "Cyber security",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Dr. Farida Begam M",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1759/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240226084029459630_Dr_M_Farida_Begam_1.jpg",
+        "Email": "farida.begam@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Natural Language Processing",
+        "Domain-3": "Artificial Intelligence/Gen AI/Explainable AI"
+    },
+    {
+        "Name": "Dr. Pooja Agarwal",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1367/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920111907588323_Pooja_Agarwal.jpg",
+        "Email": "poojaagarwal@pes.edu",
+        "Domain-1": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-2": "Natural Language Processing",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Prashanth Athri",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1514/",
+        "Image URL": "https://staff.pes.edu/static/images/def.png",
+        "Email": "athri@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Dr. Sarasvathi V",
+        "Designation": "Professor",
+        "Profile URL": "https://staff.pes.edu/nm1369/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920081456706599_Sarasvathi_V.jpg",
+        "Email": "sarsvathiv@pes.edu",
+        "Domain-1": "Cyber security",
+        "Domain-2": "Blockchain Technology",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Animesh Giri",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1380/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921062645765137_Animesh_Giri.jpg",
+        "Email": "animeshgiri@pes.edu",
+        "Domain-1": "Cyber security",
+        "Domain-2": "Data Analytics and Big data Analytics",
+        "Domain-3": "IoT and Wireless Sensor Networks"
+    },
+    {
+        "Name": "Dr. Chandrashekhar P Chavan",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1538/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921065504695350_Dr._Chandrashekhar_P_Chavan.jpg",
+        "Email": "cpchavan@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "Computer Networks",
+        "Domain-3": "Cloud Computing"
+    },
+    {
+        "Name": "Dr. Charu Kathuria",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1631/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/image_20230704055327_72fda189.jpg",
+        "Email": "charu.kathuria@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Dr. Clara Kanmani A",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1675/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921063510563513_Dr._Clara_Kanmani_A.jpg",
+        "Email": "clarakanmani.a@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "Knowledge Graph /Ontologies",
+        "Domain-3": "Cyber security"
+    },
+    {
+        "Name": "Dr. Gamini Joshi",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1823/",
+        "Image URL": "https://staff.pes.edu/static/images/def.png",
+        "Email": "joshi.gamini@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "IoT security",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Dr. Geetha  D",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1581/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921060932209849_Dr._Geetha_D.jpg",
+        "Email": "geethadayalan@pes.edu",
+        "Domain-1": "Computer Networks",
+        "Domain-2": "Cyber security",
+        "Domain-3": "Blockchain Technology"
+    },
+    {
+        "Name": "Gokul Kannan Sadasivam",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1598/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20220729081913000353.jpg",
+        "Email": "gokul@pes.edu",
+        "Domain-1": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-2": "Natural Language Processing",
+        "Domain-3": "Cyber security"
+    },
+    {
+        "Name": "Jeny Jijo",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1413/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919114118919410_Jeny_Jijo.jpg",
+        "Email": "jenyjijo@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "Web Intelligence",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Dr. Kamatchi Priya L",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1516/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921063651137639_Dr._Kamatchi_Priya_L.jpg",
+        "Email": "priyal@pes.edu",
+        "Domain-1": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Data Analytics"
+    },
+    {
+        "Name": "Dr. Kavitha P",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1849/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20250310191720253369_Dr.KavithaP.jpg",
+        "Email": "pkavitha@pes.edu",
+        "Domain-1": "Artifitial Intelligence/ Machine Learning",
+        "Domain-2": "Deep Learning/ XAI, Data mining",
+        "Domain-3": "Data Analytics, Computer Vision (Basics)"
+    },
+    {
+        "Name": "Dr. Manju",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1821/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20250305125327976298_manju.jpg",
+        "Email": "manju.nunia@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Cloud Computing"
+    },
+    {
+        "Name": "Dr. Mannar Mannan",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1693/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921051007596197_Dr._Mannar_Mannan.jpg",
+        "Email": "mannar.mj@pes.edu",
+        "Domain-1": "Augmented and Virtual Reality",
+        "Domain-2": "Web Intelligence",
+        "Domain-3": "IoT and Wireless Sensor Networks"
+    },
+    {
+        "Name": "Dr. Monika Goyal",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1822/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20250116144501694037_Monika_PES.jpg",
+        "Email": "monika.goyal@pes.edu",
+        "Domain-1": "Deep Learning",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Nazmin Begum",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1603/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20220816073651000224.jpg",
+        "Email": "nazmin.b@pes.edu",
+        "Domain-1": "Deep Learning",
+        "Domain-2": "Computer Vision",
+        "Domain-3": "Artificial Intelligence/Gen AI/Explainable AI"
+    },
+    {
+        "Name": "Dr. Prajwala T R",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1385/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919113010334328_Prajwala_T_R.jpg",
+        "Email": "prajwalatr@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Prema R",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1632/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920083117101000_Prema_R.jpg",
+        "Email": "prema.r@pes.edu",
+        "Domain-1": "Artificial Intelligence, Machine Learning",
+        "Domain-2": "Natural Language Processing",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Richa Sharma",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1810/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20241104134411620925_staff041124.jpg",
+        "Email": "richasharma@pes.edu",
+        "Domain-1": "Natural Language Processing, Artificial Intelligence",
+        "Domain-2": "Gen AI/Explainable AI/ Agentic AI",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Saranya Rubini S",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1670/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/image_20230704055351_88d40276.jpg",
+        "Email": "saranyarubini@pes.edu",
+        "Domain-1": "Computer Vision",
+        "Domain-2": "Computer Vision",
+        "Domain-3": "Deep Learning"
+    },
+    {
+        "Name": "Dr. Saritha",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1382/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919113220821269_Saritha.jpg",
+        "Email": "saritha.k@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Cloud Computing",
+        "Domain-3": "IoT and Wireless Sensor Networks"
+    },
+    {
+        "Name": "Dr. Sharavana K",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1809/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20241104132139605824_New_Project.jpg",
+        "Email": "sharavana.kk@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "IoT and Wireless Sensor Networks",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Dr. Sudeepa Roy Dey",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1377/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920105128318892_Sudeepa_Roy_Dey.jpg",
+        "Email": "sudeepar@pes.edu",
+        "Domain-1": "Knowledge Graph /Ontologies",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Healthcare Analytics"
+    },
+    {
+        "Name": "Dr. Suja C M",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1763/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240417052047986138_Suja.jpg",
+        "Email": "cmsuja@pes.edu",
+        "Domain-1": "Deep Learning",
+        "Domain-2": "Cyber security",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Swati Pratap Jagdale",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1376/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920105245511901_Swati_Pratap_Jagdale.jpg",
+        "Email": "swatigambhire@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Knowledge Graph /Ontologies"
+    },
+    {
+        "Name": "Dr. Vaishali Shinde",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1801/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240829114527821970_New_Project_2.jpg",
+        "Email": "vaishali.ds@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Vandana M Ladwani",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1372/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921062435492394_Vandana_M_Ladwani.jpg",
+        "Email": "vandanamd@pes.edu",
+        "Domain-1": "Signal processing ",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Computer Vision"
+    },
+    {
+        "Name": "Dr. Vinodha K",
+        "Designation": "Associate Professor",
+        "Profile URL": "https://staff.pes.edu/nm1515/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920113853300571_Vinodha_K.jpg",
+        "Email": "vinodhak@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Computer Networks",
+        "Domain-3": "Cyber security"
+    },
+    {
+        "Name": "Bharathy Vijayan",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1852/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20250310102146940413_New_Project.jpg",
+        "Email": "bharathy.vijayan@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "Computer Networks",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Deepti C",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1381/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919120113925271_Deepti_C.jpg",
+        "Email": "deeptic@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "Cyber security",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Divya Ebenezer Nathaniel",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1692/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921061117998962_Divya_Ebenezer_Nathaniel.jpg",
+        "Email": "divya.en@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Deep Learning"
+    },
+    {
+        "Name": "Divyaprabha K N",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1521/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20220107071343000883.jpg",
+        "Email": "divyaprabha@pes.edu",
+        "Domain-1": "System and Architecture/Parallel Computing/ Compiler Optimization",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Deep Learning"
+    },
+    {
+        "Name": "Gauri Sameer Rapate",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1539/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921070542694208_Gauri_Sameer_Rapate.jpg",
+        "Email": "gauri.rapate@pes.edu",
+        "Domain-1": "IoT and Wireless Sensor Networks",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Cyber security"
+    },
+    {
+        "Name": "Lenish Pramiee",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1764/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240417052232914935_Lenish.jpg",
+        "Email": "lenish.pj@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Computer Vision",
+        "Domain-3": "Deep Learning"
+    },
+    {
+        "Name": "Nagalakshmi S R",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1800/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240829114241914089_New_Project_1.jpg",
+        "Email": "nagalakshmi.s.r@pes.edu",
+        "Domain-1": "Cloud Computing",
+        "Domain-2": "IoT and Wireless Sensor Networks",
+        "Domain-3": "Robotics process automation"
+    },
+    {
+        "Name": "Neha Sharma",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1736/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240117124515272352_Neha_Sharma.jpg",
+        "Email": "neha.sharma@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Computer Vision",
+        "Domain-3": "Natural Language Processing"
+    },
+    {
+        "Name": "Nivedita Kasturi",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1386/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919114854537739_Nivedita_Kasturi.jpg",
+        "Email": "niveditak@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Natural Language Processing"
+    },
+    {
+        "Name": "Niveditha Reddy",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1853/",
+        "Image URL": "https://staff.pes.edu/static/images/def.png",
+        "Email": "nivedithareddy@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Natural Language Processing"
+    },
+    {
+        "Name": "P Kokila",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1580/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20220304122526000215.jpg",
+        "Email": "pkokila@pes.edu",
+        "Domain-1": "Computer Vision",
+        "Domain-2": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-3": "Natural Language Processing"
+    },
+    {
+        "Name": "Pavithra S",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1737/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240119095639868016_Pavithra_S_1.jpg",
+        "Email": "pavithra.s@pes.edu",
+        "Domain-1": "Computer Vision",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Pranjali Swapnil Thakre",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1689/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921061312883603_Pranjali_Swapnil_Thakre.jpg",
+        "Email": "pranjali.st@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Artificial Intelligence/Gen AI/Explainable AI"
+    },
+    {
+        "Name": "Dr. R Nandhi Kesavan",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1850/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20250311180213852108_Dr_R_Nandhi_Kesavan.jpg",
+        "Email": "Nandhi.Kesavan@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Deep Neural Networks",
+        "Domain-3": "Data Mining"
+    },
+    {
+        "Name": "Rohith Vaidya K",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1540/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20211221104506000399.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=chrome-ability-447306-j9%40appspot.gserviceaccount.com%2F20250323%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250323T185044Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=b47f7cac6585b1fbe23ba76d286ef89754cb97b667d8d73d06a0f7156027aa95b9620dd3f697886459ac87b366ff0a727b0cb70b5492490b3fbdaf846e13aa0eeb51e2df1b0deb6246efbdb51cb40f5a9d2eeacb2a67566f56754bf694f0b212e3b049c86879b4c380541ebc531a3f214eec37df622b201c154a41129a04a59ef046436c87394e91f9efe46e782a6ced864a2166eb76f531062a38798f7596c6226ff20d879746a32856cc4c8604ea81592271b4615f3d7cccecbd2b89d274a795fc7c9a6f11e24377ae27471f583920bad281b118fac1a60297cb271158f4809ff8bf76a2876063af5224542faab58a57f402d170a62d184f7c80268185ab17",
+        "Email": "rohithvaidya@pes.edu",
+        "Domain-1": "Cyber security",
+        "Domain-2": "Computer Networks",
+        "Domain-3": "Cloud Computing"
+    },
+    {
+        "Name": "Ruby Dinakar J",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1519/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20220803092054000560.jpg",
+        "Email": "rubydinakar@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Artificial Intelligence/Gen AI/Explainable AI"
+    },
+    {
+        "Name": "Sheela Devi M",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1523/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921081828614623_Sheela_Devi_M.jpg",
+        "Email": "sheelam@pes.edu",
+        "Domain-1": "Cyber security",
+        "Domain-2": "Computer Networks",
+        "Domain-3": "IoT and Wireless Sensor Networks"
+    },
+    {
+        "Name": "Shilpa S",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1390/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230921082603629580_Shilpa_S.jpg",
+        "Email": "shilpas@pes.edu",
+        "Domain-1": "Computer Vision",
+        "Domain-2": "Cloud Computing",
+        "Domain-3": "Data Analytics and Big data Analytics"
+    },
+    {
+        "Name": "Shruthi L",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1537/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230919120015326284_Shruthi_L.jpg",
+        "Email": "shruthil@pes.edu",
+        "Domain-1": "Blockchain Technology",
+        "Domain-2": "Cyber security",
+        "Domain-3": "Computer Networks"
+    },
+    {
+        "Name": "Surbhi Choudhary",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1760/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240329050040046518_Surbhi.jpg",
+        "Email": "surbhichoudhary@pes.edu",
+        "Domain-1": "Artificial Intelligence/Gen AI/Explainable AI",
+        "Domain-2": "Deep Learning",
+        "Domain-3": "Machine Learning"
+    },
+    {
+        "Name": "Swathi Priya N",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1788/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20240807031747019295_New_Project.jpg",
+        "Email": "swathipriya.n@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Data Analytics and Big data Analytics",
+        "Domain-3": "Natural Language Processing"
+    },
+    {
+        "Name": "Swetha Patil",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1709/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230920041834513423_23428a.jpg",
+        "Email": "swetha.patil@pes.edu",
+        "Domain-1": "Machine Learning",
+        "Domain-2": "Computer Vision",
+        "Domain-3": "Deep Learning"
+    },
+    {
+        "Name": "Umme Haani",
+        "Designation": "Assistant Professor",
+        "Profile URL": "https://staff.pes.edu/nm1691/",
+        "Image URL": "https://storage.googleapis.com/chrome-ability-447306-j9.appspot.com/staff/Uploads/20230911064628250429_Umme.jpg",
+        "Email": "umme.haani@pes.edu",
+        "Domain-1": "Data Analytics and Big data Analytics",
+        "Domain-2": "Machine Learning",
+        "Domain-3": "Computer Networks"
+    }
+]
