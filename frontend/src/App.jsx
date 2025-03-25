@@ -7,6 +7,7 @@ import ScrollToTop from './components/ScrollToTop'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Staff from './pages/Staff';
+import TeamDetailsForm from './components/TeamDetailsForm'
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
             <Home />
           </main>}/>
           <Route path="/staff/a-to-z" element={<Staff />} />
+          <Route path="/team/details" element={<TeamDetailsForm />} />
           {/* <Route path="/ec-campus/computer-science" element={<CSCampus />} />
           <Route path="/ec-campus/electronics-communications" element={<ECECampus />} />
           <Route path="/rr-campus/electrical" element={<Electrical />} />

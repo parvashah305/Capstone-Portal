@@ -5,7 +5,6 @@ import { FaCaretRight, FaCaretLeft } from "react-icons/fa";
 const allowedDomains = [
   "AI",
   "Artificial Intelligence",
-  "Augmented & Virtual Reality",
   "Blockchain Technology",
   "Cloud Computing",
   "Computer Networks",
@@ -23,10 +22,11 @@ const allowedDomains = [
   "Knowledge Graph",
   "Machine Learning",
   "Natural Language Processing",
-  "Robotic Process Automation",
+  "Robotics process automation",
   "Signal Processing",
-  "System and Architecture / Parallel Computing / Compiler Optimization",
+  "System and Architecture/Parallel Computing/ Compiler Optimization",
   "Web Intelligence",
+  "Augmented and Virtual Reality",
 ];
 
 const Home = () => {

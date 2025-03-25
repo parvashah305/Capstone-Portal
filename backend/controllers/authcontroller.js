@@ -77,56 +77,63 @@ const transporter = nodemailer.createTransport({
 });
 
 exports.sendMailtoMentor = async (req, res) => {
-  try {
-    const { teamMembers, domainsofInterest,mentorEmail } = req.body;
-
-    let teamDetails = "";
-    teamMembers.forEach((member, index) => {
-      teamDetails += `
-        <li>
-          <strong>Team Member ${index + 1}:</strong><br>
-          Name: ${member.name}<br>
-          SRN: ${member.srn}<br>
-          Section: ${member.section}<br>
-          CGPA: ${member.cgpa}<br>
-        </li><br>
-      `;
-    });
-
-    const emailContent = `
-      <p>Dear Mentor,</p>
+    try {
+      const { teamMembers, domainsOfInterest = [], mentorEmail } = req.body;
   
-  <p>I hope you're doing well. A team of students has invited you to mentor them for their capstone project.</p>
+      if (!Array.isArray(teamMembers) || teamMembers.length === 0) {
+        return res.status(400).json({ message: "Team members are required." });
+      }
+  
+      
+      let teamDetails = "";
+      teamMembers.forEach((member, index) => {
+        teamDetails += `
+          <li>
+            <strong>Team Member ${index + 1}:</strong><br>
+            Name: ${member.name}<br>
+            SRN: ${member.srn}<br>
+            Section: ${member.section}<br>
+            CGPA: ${member.cgpa}<br>
+          </li><br>
+        `;
+      });
 
-  <h3>Team Details:</h3>
-  <ul>${teamDetails}</ul>
+      const emailContent = `
+        <p>Dear Mentor,</p>
+    
+        <p>I hope you're doing well. A team of students has invited you to mentor them for their capstone project.</p>
+  
+        <h3>Team Details:</h3>
+        <ul>${teamDetails}</ul>
+  
+        <h3>Domains of Interest:</h3>
+        <p>${domainsOfInterest.length > 0 ? domainsOfInterest.join(", ") : "No domains specified."}</p>
+  
+        <p>Please log in to the <strong>Mentor Portal</strong> to accept or decline this request.</p>
+  
+        <p><a href="https://your-mentor-portal-link.com" style="color: blue; text-decoration: underline;">
+        Click here to access the Mentor Portal</a></p>
+  
+        <p>Best regards,<br><strong>PES University Team</strong></p>
+      `;
+  
 
-  <h3>Domains of Interest:</h3>
-  <p>${domainsofInterest.join(", ")}</p>
-
-  <p>Please log in to the <strong>Mentor Portal</strong> to accept or decline this request.</p>
-
-  <p><a href="https://your-mentor-portal-link.com" style="color: blue; text-decoration: underline;">
-  Click here to access the Mentor Portal</a></p>
-
-  <p>Best regards,<br><strong>PES University Team</strong></p>
-`;
-
-    const mailOptions={
+      const mailOptions = {
         from: process.env.EMAIL,
-        to: mentorEmail, 
+        to: mentorEmail,
         subject: "Capstone Project Mentorship Request",
         html: emailContent,
+      };
+  
+      await transporter.sendMail(mailOptions);
+  
+      console.log("Email sent to:", mentorEmail);
+      console.log("Mail content:", emailContent);
+  
+      res.status(200).json({ message: "Email sent successfully" });
+    } catch (error) {
+      console.error("Error sending email:", error);
+      res.status(500).json({ message: "Internal Server Error" });
     }
-
-    await transporter.sendMail(mailOptions)
-
-    console.log("Sending email to:", mentorEmail);
-console.log("Mail options:", mailOptions);
-
-    res.status(200).json({message:"Email sent successfully"})
-  } catch (error) {
-    console.log(error)
-    res.status(500).json({message:"Internal Server Error"})
-  }
-};
+  };
+  
